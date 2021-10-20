@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "119500129308",
+    "project_id": "tdm-final-trab-ifsul",
+    "storage_bucket": "tdm-final-trab-ifsul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119500129308:android:cfc96331f475d5e439cbd9",
+        "android_client_info": {
+          "package_name": "com.example.trab_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119500129308-6kho3l6td6h7dfvs38jv014riosf7fh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trab_final",
+            "certificate_hash": "06a5f134c347a33c70fed661de117c4dc556573b"
+          }
+        },
+        {
+          "client_id": "119500129308-fi2i541tsmalg5jssehogqvrfn0mntc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVxRjiQ-BnntG3UzZfEKWC8rWAP28AbsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119500129308-fi2i541tsmalg5jssehogqvrfn0mntc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
